@@ -1,0 +1,56 @@
+.section_container{
+    background-image: url("https://wallpapercave.com/wp/wp2042026.jpg");
+    height: 150vh;
+    padding:20vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.heading{
+    color:aqua;
+   
+    font-size: 10vh;
+    font-family: Arial, Helvetica, sans-serif;
+
+  
+}
+.para{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.heading1{
+    color: white;
+    font-size:4vh;
+    
+}
+.container1{ padding: 2vh;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 1em;
+}
+.container2{
+    color: darkslategray;
+    background-color: lightcyan;
+}
+.heading2{
+    color:lightskyblue;
+   
+    font-size: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+
+  
+}
+.para2{
+    color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
